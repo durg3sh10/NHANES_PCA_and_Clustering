@@ -9,7 +9,7 @@ The NHANES interview includes demographic, socioeconomic, dietary, and health-re
 
 We will take this dataset to understand how we analyze high-dimensional data. This dataset has nearly 200 features and we will put in action PCA and some clustering techniques to visualize insights from the dataset.
 
-![image](https://user-images.githubusercontent.com/79005878/182075817-76928908-3518-449d-8d86-e47734a23cb0.png)
+First 3 PCA components:
 
 ![image](https://user-images.githubusercontent.com/79005878/182075853-d74570a6-f52d-4452-a67e-a4e96781ec79.png)
 
